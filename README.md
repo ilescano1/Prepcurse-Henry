@@ -1,2 +1,2 @@
-# Prepcurse-Henry
-modulo 2 de Henry
+Este proyecto es una preuba de como crear un repositorio y clonarlo desde github a mi escririorio local
+
